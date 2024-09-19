@@ -1,15 +1,20 @@
+<div align=center>
+  <img src="https://github.com/user-attachments/assets/5364ce01-5aad-40ad-a9ba-aa7e737e1975" width=80% height=300 />
+</div>
 
 ## Github Status
-<span>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suinpark-2018&layout=compact&theme=holi&border_radius=0" width="400">
-</span>
-<span>
-  <img src="https://github-readme-stats.vercel.app/api?username=suinpark-2018&show_icons=true&theme=holi&border_radius=0" width=445>
-</span>
+<div align=center>
+  <span>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suinpark-2018&layout=compact&theme=holi&border_radius=0" width="400">
+  </span>
+  <span>
+    <img src="https://github-readme-stats.vercel.app/api?username=suinpark-2018&show_icons=true&theme=holi&border_radius=0" width=445>
+  </span>
+</div>
 
 ## Skills
 #### 개발언어(Language)
-<div>
+<div align>
   <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
