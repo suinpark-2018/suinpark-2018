@@ -1,6 +1,10 @@
 <div align=center>
+
+  ### WELCOME !
   <img src="https://github.com/user-attachments/assets/5364ce01-5aad-40ad-a9ba-aa7e737e1975" width=80% height=300 />
 </div>
+
+<br>
 
 ## Github Status
 <div align=center>
@@ -11,6 +15,8 @@
     <img src="https://github-readme-stats.vercel.app/api?username=suinpark-2018&show_icons=true&theme=holi&border_radius=0" width=445>
   </span>
 </div>
+
+<br>
 
 ## Skills
 #### 개발언어(Language)
@@ -63,12 +69,6 @@
 
 ## Contact & Blog
 <a href="mailto:suinpark2018@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=suinpark2018@gmail.com" width=75/></a>
-<a href="https://github.com/jjacksparrow-luna/github-readme-tistory-card">
+<a href="https://jjacksparrow-luna.tistory.com/category/Reflection/Programming">
   <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&postId=110&theme=dark&border_radius=0" width="140">
 </a>
-
-
-
-
-
-
